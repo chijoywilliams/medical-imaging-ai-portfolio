@@ -74,3 +74,11 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyd
+*.dll
+*.exe
